@@ -17,8 +17,8 @@
 
 <br/>
 
-**3) HW3_EMNIST_Classification**
-> EMNIST(bymerge) 이미지 데이터셋을 분류하는 모델을 설계하되, 학습 정확도를 최대화 하는 것이 목표
+**3) PJ_EMNIST_Classification**
+> EMNIST(bymerge) 이미지 데이터셋을 분류하는 모델을 설계하되, 학습 정확도를 최대화 하는 것이 목표인 프로젝트
 
 > 분류 정확도가 높은 순으로 점수를 부여함
 
