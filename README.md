@@ -8,6 +8,7 @@
 
 > 두 과정 사이에 차이가 있었던 것인지 감점당함.
 
+
 **2) HW2_CIFAR10_CNN**
 > CNN(Convolution Neural Network)(합성곱신경망)을 통해 CIFAR10-set Classification 모델을 작성하는 과제
 
