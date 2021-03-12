@@ -9,12 +9,14 @@
 > 두 과정 사이에 차이가 있었던 것인지 감점당함.
 
 <br/>
+
 **2) HW2_CIFAR10_CNN**
 > CNN(Convolution Neural Network)(합성곱신경망)을 통해 CIFAR10-set Classification 모델을 작성하는 과제
 
 > 모델을 총 5개의 레이어로 구성했으며 75% 가량의 학습 정확도를 보이는 모델을 작성함
 
 <br/>
+
 **3) HW3_EMNIST_Classification**
 > EMNIST(bymerge) 이미지 데이터셋을 분류하는 모델을 설계하되, 학습 정확도를 최대화 하는 것이 목표
 
